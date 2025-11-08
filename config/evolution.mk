@@ -19,8 +19,8 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 PRODUCT_PACKAGES += \
     EvoEgg \
     GameSpace \
-    OmniJaws \
     OmniStyle
+#    OmniJaws \
 
 PRODUCT_PACKAGES += \
     Updater
