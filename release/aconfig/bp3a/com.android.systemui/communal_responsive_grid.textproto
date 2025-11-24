@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "notification_animated_actions_treatment"
+  name: "communal_responsive_grid"
   state: ENABLED
   permission: READ_ONLY
 }

@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "notification_shade_blur"
+  name: "flashlight_strength"
   state: ENABLED
   permission: READ_ONLY
 }

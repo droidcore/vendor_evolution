@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "notifications_redesign_footer_view"
+  name: "qs_new_tiles"
   state: ENABLED
   permission: READ_ONLY
 }
