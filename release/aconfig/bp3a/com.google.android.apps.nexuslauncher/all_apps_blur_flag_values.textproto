@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "all_apps_blur"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "enable_launcher_icon_shapes"
+  state: ENABLED
+  permission: READ_ONLY
+}

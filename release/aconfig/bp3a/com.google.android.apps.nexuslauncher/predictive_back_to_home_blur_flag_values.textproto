@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "predictive_back_to_home_blur"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -30,5 +30,6 @@ aconfig_value_set {
         "aconfig-values-bp3a-com.android.systemui-all",
         "aconfig-values-bp3a-com.android.systemui.shared-all",
         "aconfig-values-bp3a-com.android.wallpaper-all",
+        "aconfig-values-bp3a-com.google.android.apps.nexuslauncher-all",
     ],
 }
